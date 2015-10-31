@@ -10,9 +10,7 @@
       {% include header.html %}
 
       <div class="page-content">
-        <div class="wrapper">
           {{ content }}
-        </div>
       </div>
 
       {% include footer.html %}
@@ -20,5 +18,17 @@
     </div>
 
   </body>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+     $("#owl-example").owlCarousel({
+      //Basic Speeds
+      autoPlay : 3000,
+      items: 3,
+      slideSpeed: 2000,
+      paginationSpeed: 2000
+     });
+   });
+</script>
 
 </html>

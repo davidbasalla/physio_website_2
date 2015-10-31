@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: praxis
 title: Unsere Praxis
 permalink: /praxis/
 ---
