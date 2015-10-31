@@ -4,12 +4,24 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Physio an der Bucht
+Claudia Basalla
+Hauptstraße 5E 
+10317 Berlin
+Haltestelle S-Bahnhof Rummelsburg (S3, Tram 21)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Öffnungszeiten
+Mo - Do 
+8 – 20 Uhr
+Fr  
+8 – 16 Uhr
+und nach Vereinbarung  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+Kontakt:
+Tel.: 54 81 83 80
+Fax: 89 64 69 72
+Email: team@physio-an-der-bucht.de
+
+Wenn Sie uns Ihre E-Mail Adresse hinterlassen, senden wir Ihnen Informationen zu unserer Praxis und Sonderaktionen zukünftig gern auch auf diesem Weg zu.
+
