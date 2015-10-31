@@ -4,11 +4,60 @@
 .site-header {
     padding-top: 10px;
     padding-bottom: 10px;
-    border-bottom: 1px solid $grey-color-light;
+//    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+}
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
+.logo-header {
+    width: 400px;
+    min-height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-header {
+    color: #FFFFFF;
+    background-color: #97254E;
+    height: 50px;
+}
+
+
+
+a.nav-link.active {
+    color: #97254E;
+    text-decoration: underline;
+}
+
+a.nav-link.active:visited {
+    color: #97254E;
+    text-decoration: underline;
+}
+
+a.nav-link {
+    color: white;
+}
+
+a.nav-link:visited {
+    color: white;
+}
+
+.nav-tab {
+    float:left;
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-top: 6px;
+    margin: 10px;
+}
+
+.nav-tab.active {
+    float:left;
+    border-radius: 10px;
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-top: 6px;
+    margin: 10px;
+    background-color: white;
 }
 
 .site-title {
