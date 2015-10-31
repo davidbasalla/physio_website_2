@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <table>
+    <thead>
+      <th></th>
+      <th>Gruenes Rezept</th>
+      <th>Ohne Rezept</th>
+    </thead>
+    <tbody>
+      {% for price in site.data.prices.prices %}
+        <tr>
+          <td>{{ price.title + " " + price.duration }}</td>
+          <td>{{ price.gruenes_rezept }}</td>
+          <td>{{ price.ohne_rezept }}</td>
+        </tr>
+        {% for price in price.sub_prices %}
+          <tr>
+            <td>{{ price.title + " " + price.duration }}</td>
+            <td>{{ price.gruenes_rezept }}</td>
+            <td>{{ price.ohne_rezept }}</td>
+          </tr>
+        {% endfor %}
+        <tr></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+</article>

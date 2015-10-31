@@ -1,0 +1,47 @@
+{"prices":
+  [
+    {
+      "title":"Klassische Massage", 
+      "duration":"25 min", 
+      "gruenes_rezept":"", 
+      "ohne_rezept":"", 
+      "sub_prices":
+        [
+          {
+            "title":"Einzelmassage",
+            "gruenes_rezept":"21,00", 
+            "ohne_rezept":"25,00"
+          },
+          {
+            "title":"Einzelmassage und Moorpackung",
+            "gruenes_rezept":"34,00", 
+            "ohne_rezept":"40,00"
+          },
+          {
+            "title":"6er Karte",
+            "gruenes_rezept":"119,00", 
+            "ohne_rezept":"141,00"
+          },
+          {
+            "title":"3 Einzelmassagen gültig 3 Monate",
+            "gruenes_rezept":"", 
+            "ohne_rezept":"70,00 "
+          }
+        ]
+    },
+    {
+      "title":"Krankengymnastik", 
+      "duration":"25 min", 
+      "gruenes_rezept":"21,00", 
+      "ohne_rezept":"25,00",
+      "sub_prices":
+        [
+          {
+            "title":"6er Karte",
+            "gruenes_rezept":"119,00", 
+             "ohne_rezept":"141,00"
+           }
+        ]
+    }
+  ]
+}

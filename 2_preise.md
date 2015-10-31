@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: prices
 title: Preise
 permalink: /preise/
 ---
