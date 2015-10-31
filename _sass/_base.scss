@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background-color: #E6E6E6;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -151,11 +151,10 @@ pre {
 }
 
 
-
 /**
- * Wrapper
+ * Main Wrapper
  */
-.wrapper {
+.main-wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -163,10 +162,35 @@ pre {
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
+    box-shadow: 0px 0px 10px #888888;
+    background-color: #FFFFFF;
+    height:100vh;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    //max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    //margin-right: auto;
+    //margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        //max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
