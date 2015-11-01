@@ -1,0 +1,52 @@
+{"courses":
+  [
+    {
+      "title":"Autogenes Training", 
+      "time_and_date":"Herbst 2015", 
+      "description":"Die bekannteste Methode der Selbstentspannung - durch sechs standardisierte Übungen spürbare Erholung des gesamten Organismus. Präventionskurs, d.h. Kostenübernahme durch Ihre Krankenkasse möglich."
+    },
+    {
+      "title":"Aktiv entspannt", 
+      "time_and_date":"Montags 19 - 20 Uhr & Mittwochs 18 - 19 Uhr", 
+      "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
+    },
+    {
+      "title":"Bewusst bewegt", 
+      "time_and_date":"Dienstags 10 - 11 Uhr", 
+      "description":"Gymnastik für den ganzen Körper, kombiniert mit Atem- und Körperwahrnehmungsübungen mit und ohne Geräte"
+    },
+    {
+      "title":"Gerade gerückt", 
+      "time_and_date":"Auf Anfrage / Mittwochs 19 - 20 Uhr", 
+      "description":"Klassische Rückenschule zum Erlernen des schonenden Umgangs mit dem Rücken im Alltag, Kosten werden von den meisten gesetztlichen Krankenkassen getragen (Zertifikat nach 8 Einheiten zur Vorlage zur Rückerstattung bei Ihrer Krankenkasse)"
+    },
+    {
+      "title":"Seniorengerecht", 
+      "time_and_date":"Donnerstags 10 – 11 Uhr", 
+      "description":"Gemeinsame Übungen zur Erhaltung der Fitness für Teilnehmer 60+, Bewegung für den ganzen Körper mit und ohne Kleingerät bei passender Musik"
+    },
+    {
+      "title":"Pilates", 
+      "time_and_date":"Donnerstags 19 - 20 Uhr", 
+      "description":"Training für mehr Balance und Beweglichkeit auf schonende Art, verbesserte Körperhaltung, Koordination, Atmung, Ausdauer und Konzentration"
+    },
+    {
+      "title":"In Form gebracht", 
+      "time_and_date":"Donnerstags 20 - 21 Uhr", 
+      "description":"Zielgerichtetes Kräftigungs- und Ausdauertraining, begleitet durch schnelle Rhythmen, Bauch-Beine-Po-Power-Kurs für alle, die gern einmal an ihre Grenzen gehen"
+    },
+    {
+      "title":"Osteoporose", 
+      "time_and_date":"Freitags 10 - 11 Uhr", 
+      "description":"Gruppengymnastik zur Stabilisierung des Bewegungsapparates und zur Schmerzlinderung"
+    },
+    {
+      "title":"NEU - Kundalini-Yoga für Einsteiger", 
+      "time_and_date":"Freitags 18:00 - 19:30 Uhr, 23.10.15 - 11.12.15", 
+      "participants": "Teilnehmerzahl: 6/8",
+      "staff": "Claudia Bohne",
+      "price": "98€",
+      "description":"Kundalini-Yoga gibt dir die Möglichkeit, Entspannung für Körper und Geist zu erfahren, dich wieder zu zentrieren. Es fördert deine Beweglichkeit, Konzentration und Wohlbefinden."
+    },
+  ]
+}

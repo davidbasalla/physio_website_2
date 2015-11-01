@@ -246,3 +246,18 @@
         }
     }
 }
+
+.course {
+    border-bottom: solid;
+    border-color: $divider-color;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+
+.course-overview {
+    border-bottom: solid;
+    border-color: $divider-color;
+    border-width: 1px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}

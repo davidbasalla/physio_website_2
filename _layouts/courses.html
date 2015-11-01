@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<article class="post">
+
+  <div class="wrapper">
+    <div class="post-content">
+
+    <!-- make links to each course!! -->
+
+    <div class="course-overview">
+      <h3>Unser Gesundheitskurse:</h3>
+      {% for course in site.data.courses.courses %}
+        <a href="#{{ course.title | slugify }}">{{ course.title }}</a>
+          {% if forloop.index < 9 %}
+            |
+          {% endif %}
+      {% endfor %}
+    </div>
+
+
+    {% for course in site.data.courses.courses %}
+      <div class="course">
+        <h3 id={{ course.title | slugify }}>{{ course.title }}</h3>
+        <h4>{{ course.time_and_date }}</h4>
+
+        {% if course.staff %}
+          <h4>Trainer: {{ course.staff }}</h4>
+        {% endif %}
+
+        {% if course.participants %}
+          <h4>Teilnehmerzahl: {{ course.participants }}</h4>
+        {% endif %}
+
+        {% if course.price %}
+          <h4>Gebühr: {{ course.price }}</h4>
+        {% endif %}
+
+
+        <p>{{ course.description }}</p>
+      </div>
+    {% endfor %}
+
+      <p>
+        Weitere Informationen zu allen Kursen erhalten Sie in unserer Praxis.<br/>
+        Wir freuen uns auf weitere Anregungen und Ihren Besuch.
+      </p>
+
+    </div>
+  </div>
+</article>
