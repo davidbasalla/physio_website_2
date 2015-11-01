@@ -27,7 +27,7 @@
 
 .site-nav {
     margin-top: 20px;
-    padding-left: 30px;
+    padding-left: 23px;
     line-height: 40px;
     background-color: $physio-color;
     color: white;
@@ -251,4 +251,30 @@
     border-width: 1px;
     padding-bottom: 20px;
     margin-bottom: 20px;
+}
+
+
+.price-empty-row {
+    height: 20px;
+}
+
+.prices-table {
+
+    table-layout:fixed;
+    width: 100%;
+
+    .price-header {
+        font-weight: bold;
+        word-wrap: break-word;
+    }
+    .price-duration {
+        white-space: nowrap;
+    }
+    .price-th {
+        text-align: right;
+    }
+    .price-td {
+        white-space: nowrap;
+        text-align: right;
+    }
 }

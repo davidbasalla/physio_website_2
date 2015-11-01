@@ -10,30 +10,76 @@ layout: default
   <div class="wrapper">
   <div class="post-content">
 
-  <table>
+  <table class="prices-table">
     <thead>
-      <th></th>
-      <th>Gruenes Rezept</th>
-      <th>Ohne Rezept</th>
+      <th style="width: 54%"></th>
+      <th style="width: 23%" class="price-th">Grünes Rezept</th>
+      <th style="width: 23%"class="price-th">Ohne Rezept</th>
     </thead>
     <tbody>
       {% for price in site.data.prices.prices %}
         <tr>
-          <td>{{ price.title + " " + price.duration }}</td>
-          <td>{{ price.gruenes_rezept }}</td>
-          <td>{{ price.ohne_rezept }}</td>
-        </tr>
-        {% for price in price.sub_prices %}
-          <tr>
-            <td>{{ price.title + " " + price.duration }}</td>
-            <td>{{ price.gruenes_rezept }}</td>
-            <td>{{ price.ohne_rezept }}</td>
+          <td>
+            <span class="price-header">{{ price.title }}</span>
+            <span class="price-duration">{{ price.duration }}</span>
+          </td>
+
+          <td class="price-td">
+            {% if price.gruenes_rezept != "" %}
+              {{ price.gruenes_rezept }} €
+            {% endif %}
+          </td>
+
+          <td class="price-td">
+            {% if price.ohne_rezept != "" %}
+              {{ price.ohne_rezept }} €
+            {% endif %}
+          </td>
+
+          </tr>
+          {% for price in price.sub_prices %}
+            <tr>
+              <td>
+                {{ price.title }}
+                {{ price.duration }}
+              </td>
+            <td class="price-td">
+              {% if price.gruenes_rezept != "" %}
+                {{ price.gruenes_rezept }} €
+              {% endif %}
+            </td>
+
+            <td class="price-td">
+              {% if price.ohne_rezept != "" %}
+                {{ price.ohne_rezept }} €
+              {% endif %}
+            </td>
           </tr>
         {% endfor %}
-        <tr></tr>
+        <tr class="price-empty-row"></tr>
       {% endfor %}
     </tbody>
   </table>
+
+<p>
+*im Anschluss an ärztliche Verordnung<br/>
+**Schnupperdiscount einmalig 1.00 EUR<br/>
+***Seniorendiscount 2.00 EUR<br/>
+<p>
+
+<p>
+Die zeitlichen Angaben beziehen sich auf effektive Behandlungszeiten.
+Bitte bringen Sie zu den Behandlungen Ihre Handtücher und Laken mit.
+</p>
+<p>
+Alle Leistungen können Sie auch als Geschenkgutschein erwerben.
+</p>
+<p>
+Wenn Sie uns Ihre E-Mail Adresse auf unserer Kontaktseite hinterlassen, senden wir Ihnen Informationen zu unserer Praxis und Sonderaktionen zukünftig gern auch auf diesem Weg zu.
+</p>
+<p>
+Preisliste Stand September 2014
+</p>
   </div>
   </div>
 </article>
