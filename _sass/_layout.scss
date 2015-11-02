@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-bottom: 30px;
     //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -25,9 +25,23 @@
     }
 }
 
+.logo-header {
+    width: 300px;
+    margin: auto;
+    padding-bottom: 5px;
+
+    @media screen and (min-width: 450px) {
+        width: 400px;
+    }
+
+    @media screen and (min-width: 700px) {
+        width: 450px;
+    }
+}
+
 .site-nav {
+    text-align: center;
     margin-top: 20px;
-    padding-left: 23px;
     line-height: 40px;
     background-color: $physio-color;
     color: white;
@@ -39,12 +53,6 @@
         color: $text-color;
         font-size: 1.2em;
         line-height: $base-line-height;
-
-
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-        // margin-right: 20px;
-        }
     }
 
 
