@@ -24,3 +24,14 @@ In unseren modern eingerichteten Räumen mit vier Behandlungsplätzen und Gruppe
   * Schlingentischbehandlung
   * Gesundheitskurse (4 bis 10 Personen)
   * Haus-, Heim- und Arbeitsplatzbesuche
+
+
+####Unser Info-Brief
+
+Liebe Patienten,
+s
+wenn Sie Interesse an unserem Info-Brief haben, hinterlassen Sie gern Ihre E-Mail-Adresse bei uns - entweder bei [Kontakt](../kontakt) oder in der Praxis. Auf diesem Wege werden wir Sie künftig in loser Folge über Neuigkeiten und besondere Angebote unserer Praxis informieren.
+
+Freundliche Grüße
+
+Ihr Team der Physio an der Bucht
