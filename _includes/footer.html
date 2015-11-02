@@ -5,35 +5,41 @@
     <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-<!--         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul> -->
+
+      <div class="footer-col">
+
+        <div class="footer-item footer-links">
+
+          <nav class="footer-nav">
+
+              {% for my_page in site.pages %}
+                {% if my_page.title %}
+                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">
+                  {{ my_page.title }}
+                </a>
+                {% if forloop.index < 5 %}
+                  |
+                {% endif %}
+
+                {% endif %}
+              {% endfor %}
+          </nav>
+
+        </div>
+
+        <div class="footer-item footer-contact">
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          / Tel: {{ site.phone }} / Fax: {{ site.fax }}
+        </div>
+
+        <div class="footer-item footer-impressum">
+          <a href="impressum.html" target="_blank">
+            Impressum
+          </a>
+        </div>
+
       </div>
 
-      <div class="footer-col footer-col-2">
-        <a href="impressum.html" target="_blank">
-          Impressum
-        </a>
-<!--         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul> -->
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <!-- <p>{{ site.description }}</p> -->
-      </div>
     </div>
 
   </div>
