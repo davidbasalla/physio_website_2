@@ -103,12 +103,28 @@
 
 .footer-item {
     color: $physio-color;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 5px;
 }
 
 .footer-nav {
     font-size: medium;
+    background-color: $physio-color;
+    color: white;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: lighter;
+
+    a {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    a:visited {
+        color: white;
+    }
 }
 
 @include media-query($on-laptop) {
