@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /kontakt/
+order: 5
 ---
 
 ### Sie finden uns hier:
@@ -27,4 +27,3 @@ Fax: 89 64 69 72
 Email: team@physio-an-der-bucht.de  
 
 Wenn Sie uns Ihre E-Mail Adresse hinterlassen, senden wir Ihnen Informationen zu unserer Praxis und Sonderaktionen zukünftig gern auch auf diesem Weg zu.
-

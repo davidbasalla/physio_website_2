@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellenangebote
-permalink: /jobs/
+order: 4
 ---
 
 ###Wir suchen…

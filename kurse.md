@@ -1,5 +1,5 @@
 ---
 layout: courses
 title: Kurse
-permalink: /kurse/
+order: 3
 ---

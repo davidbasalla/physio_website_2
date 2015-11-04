@@ -1,7 +1,7 @@
 ---
 layout: praxis
 title: Unsere Praxis
-permalink: /praxis/
+order: 1
 ---
 
 In unseren modern eingerichteten Räumen mit vier Behandlungsplätzen und Gruppenraum bieten wir Ihnen in einem entspannten Ambiente folgende Leistungen:

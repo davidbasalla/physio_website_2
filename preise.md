@@ -1,5 +1,5 @@
 ---
 layout: prices
 title: Preise
-permalink: /preise/
+order: 2
 ---
