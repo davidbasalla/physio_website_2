@@ -74,8 +74,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-
 
     a {
         color: $physio-color;
@@ -261,6 +259,15 @@
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom: 20px;
+}
+
+.praxis-entry {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: $divider-color;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .course {
