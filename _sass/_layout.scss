@@ -50,13 +50,14 @@
 
 
     .page-link {
-        color: $text-color;
+        color: white;
         font-size: 1.2em;
         line-height: $base-line-height;
     }
 
 
     a {
+        color: white;
         font-size: 300%;
         margin-right: 10px;
         margin-left: 10px;
@@ -125,7 +126,12 @@
     text-align: center;
     font-weight: lighter;
 
+    .page-link {
+        color: white;
+    }
+
     a {
+        color: white;
         margin-right: 10px;
         margin-left: 10px;
     }
