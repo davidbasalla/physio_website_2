@@ -3,8 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>Physio an der Bucht {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <meta name="description" content="Physio-an-der-Bucht bietet Physiotherapie auf hohem Niveau. Auf unserer Webseite finden sie unser Leistungspektrum und Preise.">
+  <meta name="keywords" content="physio, massage, rummelsburger, physiotherapie, berlin, claudia, basalla, claudia basalla, bucht, physio an der bucht, Lichtenberg, Rummelsburg, Rummelsburger Bucht, Rückenschmerzen,
+  Bandscheibenvorfall, Schulter-Arm-Syndrom, HWS-Syndrom, LWS-Syndrom, Cervicobrachialsyndrom, Knieschmerzen, Elektrotherapie, Ultraschall, Reizstrom, Krankengymnastik, Manuelle Therapie, Massage, KMT, Lymphdrainage, Thai-Massage, Fußreflexzonenmassage">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
