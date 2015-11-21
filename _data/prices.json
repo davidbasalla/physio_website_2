@@ -153,7 +153,7 @@
       "title":"Fußreflexzonenmassage", 
       "duration":"60 min incl. Wärme",
       "gruenes_rezept":"", 
-      "ohne_rezept":"15,00",
+      "ohne_rezept":"39,00",
     },   
     {
       "title":"Nuad Boran Traditionelle Thaimassage", 
@@ -164,6 +164,12 @@
     {
       "title":"Haus-, Heim- und Arbeitsplatzbesuche", 
       "duration":"nach Vereinbarung",
+      "gruenes_rezept":"", 
+      "ohne_rezept":"",
+    },
+    {
+      "title":"Alle Kassen, BG und Privat", 
+      "duration":"",
       "gruenes_rezept":"", 
       "ohne_rezept":"",
     },
