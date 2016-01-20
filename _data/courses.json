@@ -1,11 +1,6 @@
 {"courses":
   [
     {
-      "title":"Autogenes Training", 
-      "time_and_date":"Herbst 2015", 
-      "description":"Die bekannteste Methode der Selbstentspannung - durch sechs standardisierte Übungen spürbare Erholung des gesamten Organismus. Präventionskurs, d.h. Kostenübernahme durch Ihre Krankenkasse möglich."
-    },
-    {
       "title":"Aktiv entspannt", 
       "time_and_date":"Montags 19 - 20 Uhr & Mittwochs 18 - 19 Uhr", 
       "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
@@ -17,7 +12,7 @@
     },
     {
       "title":"Gerade gerückt", 
-      "time_and_date":"Auf Anfrage / Mittwochs 19 - 20 Uhr", 
+      "time_and_date":"Nächster Kurs 16.03. bis 04.05.2016", 
       "description":"Klassische Rückenschule zum Erlernen des schonenden Umgangs mit dem Rücken im Alltag, Kosten werden von den meisten gesetztlichen Krankenkassen getragen (Zertifikat nach 8 Einheiten zur Vorlage zur Rückerstattung bei Ihrer Krankenkasse)"
     },
     {
