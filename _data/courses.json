@@ -11,8 +11,13 @@
       "description":"Gymnastik für den ganzen Körper, kombiniert mit Atem- und Körperwahrnehmungsübungen mit und ohne Geräte"
     },
     {
+      "title":"Babymassage", 
+      "time_and_date":"Mittwochs 10 - 11 Uhr (auf Anfrage)", 
+      "description":"Erlernen sanfter Massagetechniken für Säuglinge im Alter von 2 - 6 Monaten in kleiner Runde - 3 bis 5 Babys"
+    },
+    {
       "title":"Gerade gerückt", 
-      "time_and_date":"Nächster Kurs 16.03. bis 04.05.2016", 
+      "time_and_date":"Mittwochs 19 - 20 Uhr (auf Anfrage)", 
       "description":"Klassische Rückenschule zum Erlernen des schonenden Umgangs mit dem Rücken im Alltag, Kosten werden von den meisten gesetztlichen Krankenkassen getragen (Zertifikat nach 8 Einheiten zur Vorlage zur Rückerstattung bei Ihrer Krankenkasse)"
     },
     {
@@ -31,13 +36,8 @@
       "description":"Zielgerichtetes Kräftigungs- und Ausdauertraining, begleitet durch schnelle Rhythmen, Bauch-Beine-Po-Power-Kurs für alle, die gern einmal an ihre Grenzen gehen"
     },
     {
-      "title":"Osteoporose", 
-      "time_and_date":"Freitags 10 - 11 Uhr", 
-      "description":"Gruppengymnastik zur Stabilisierung des Bewegungsapparates und zur Schmerzlinderung"
-    },
-    {
-      "title":"NEU - Kundalini-Yoga für Einsteiger", 
-      "time_and_date":"Freitags 18:00 - 19:30 Uhr", 
+      "title":"Kundalini-Yoga", 
+      "time_and_date":"Freitags 18 - 19:30 Uhr", 
       "participants": "Teilnehmerzahl: 6/8",
       "staff": "Claudia Bohne",
       "price": "98€",
