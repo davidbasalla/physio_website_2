@@ -1,8 +1,8 @@
 {"courses":
   [
     {
-      "title":"Aktiv entspannt", 
-      "time_and_date":"Montags 19 - 20 Uhr & Mittwochs 18 - 19 Uhr", 
+      "title":"Yoga für alle", 
+      "time_and_date":"Montags 19 - 20", 
       "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
     },
     {
@@ -11,19 +11,19 @@
       "description":"Gymnastik für den ganzen Körper, kombiniert mit Atem- und Körperwahrnehmungsübungen mit und ohne Geräte"
     },
     {
-      "title":"Babymassage", 
-      "time_and_date":"Mittwochs 10 - 11 Uhr (auf Anfrage)", 
-      "description":"Erlernen sanfter Massagetechniken für Säuglinge im Alter von 2 - 6 Monaten in kleiner Runde - 3 bis 5 Babys"
+      "title":"Aktiv entspannt", 
+      "time_and_date":"Mittwochs 18 - 19 Uhr", 
+      "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
     },
     {
       "title":"Gerade gerückt", 
-      "time_and_date":"Mittwochs 19 - 20 Uhr (auf Anfrage)", 
-      "description":"Klassische Rückenschule zum Erlernen des schonenden Umgangs mit dem Rücken im Alltag, Kosten werden von den meisten gesetztlichen Krankenkassen getragen (Zertifikat nach 8 Einheiten zur Vorlage zur Rückerstattung bei Ihrer Krankenkasse)"
+      "time_and_date":"Mittwochs 19 - 20 Uhr (8 x ab 7.9.2016)", 
+      "description":"Klassische Rückenschule - Präventionskurs gem. § 20 SGB V"
     },
     {
       "title":"Seniorengerecht", 
       "time_and_date":"Donnerstags 10 – 11 Uhr", 
-      "description":"Gemeinsame Übungen zur Erhaltung der Fitness für Teilnehmer 60+, Bewegung für den ganzen Körper mit und ohne Kleingerät bei passender Musik"
+      "description":"Übungen zur Erhaltung der Fitness für Teilnehmer 60+, Bewegung für den ganzen Körper mit und ohne Kleingerät bei passender Musik"
     },
     {
       "title":"Pilates", 
@@ -31,17 +31,19 @@
       "description":"Training für mehr Balance und Beweglichkeit auf schonende Art, verbesserte Körperhaltung, Koordination, Atmung, Ausdauer und Konzentration"
     },
     {
-      "title":"In Form gebracht", 
+      "title":"Bauch-Beine-Po", 
       "time_and_date":"Donnerstags 20 - 21 Uhr", 
       "description":"Zielgerichtetes Kräftigungs- und Ausdauertraining, begleitet durch schnelle Rhythmen, Bauch-Beine-Po-Power-Kurs für alle, die gern einmal an ihre Grenzen gehen"
     },
     {
+      "title":"Osteoporose", 
+      "time_and_date":"Freitags 10 - 11 Uhr", 
+      "description":"Gruppengymnastik zur Stabilisierung des Bewegungsapparates und zur Schmerzlinderung"
+    },
+    {
       "title":"Kundalini-Yoga", 
       "time_and_date":"Freitags 18 - 19:30 Uhr", 
-      "participants": "Teilnehmerzahl: 6/8",
-      "staff": "Claudia Bohne",
-      "price": "98€",
-      "description":"Kundalini-Yoga gibt dir die Möglichkeit, Entspannung für Körper und Geist zu erfahren, dich wieder zu zentrieren. Es fördert deine Beweglichkeit, Konzentration und Wohlbefinden. Anmeldung unter claudia2065@t-online.de oder 0151/432 6886 0 oder direkt in der Praxis!"
+      "description":"Entspannung für Körper und Geist zur Förderung von Beweglichkeit und Wohlbefinden"
     },
   ]
 }
