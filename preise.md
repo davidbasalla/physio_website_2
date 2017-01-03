@@ -1,5 +1,5 @@
 ---
 layout: prices
 title: Preise
-order: 2
+order: 1
 ---

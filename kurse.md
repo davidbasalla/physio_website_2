@@ -1,5 +1,5 @@
 ---
 layout: courses
 title: Kurse
-order: 3
+order: 2
 ---
