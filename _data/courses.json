@@ -2,7 +2,7 @@
   [
     {
       "title":"Yoga für alle", 
-      "time_and_date":"Montags 19 - 20", 
+      "time_and_date":"Montags 19 - 20 Uhr und 20 - 21 Uhr", 
       "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "title":"Gerade gerückt", 
-      "time_and_date":"Mittwochs 19 - 20 Uhr (8 x ab 22.02.2017)", 
+      "time_and_date":"Mittwochs 19 - 20 Uhr auf Anfrage", 
       "description":"Klassische Rückenschule - Präventionskurs gem. § 20 SGB V"
     },
     {
@@ -36,13 +36,8 @@
       "description":"Zielgerichtetes Kräftigungs- und Ausdauertraining, begleitet durch schnelle Rhythmen, Bauch-Beine-Po-Power-Kurs für alle, die gern einmal an ihre Grenzen gehen"
     },
     {
-      "title":"Osteoporose", 
-      "time_and_date":"Freitags 10 - 11 Uhr", 
-      "description":"Gruppengymnastik zur Stabilisierung des Bewegungsapparates und zur Schmerzlinderung"
-    },
-    {
       "title":"Kundalini-Yoga", 
-      "time_and_date":"Freitags 18 - 19:30 Uhr", 
+      "time_and_date":"Freitags 18 - 19:30 Uhr auf Anfrage", 
       "description":"Entspannung für Körper und Geist zur Förderung von Beweglichkeit und Wohlbefinden"
     },
   ]
