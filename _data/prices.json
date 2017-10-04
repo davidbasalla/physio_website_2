@@ -9,37 +9,47 @@
         [
           {
             "title":"Einzelmassage",
-            "gruenes_rezept":"21,00", 
-            "ohne_rezept":"25,00"
+            "gruenes_rezept":"22,00", 
+            "ohne_rezept":"26,00"
+          },
+          {
+            "title":"3 Einzelmassagen gültig 3 Monate",
+            "gruenes_rezept":"", 
+            "ohne_rezept":"75,00 "
+          },
+          {
+            "title":"6er Karte",
+            "gruenes_rezept":"127,00", 
+            "ohne_rezept":"149,00"
+          },
+          {
+            "title":"10er Karte",
+            "gruenes_rezept":"215,00", 
+            "ohne_rezept":"245,00"
+          },
+          {
+            "title":"20er Karte",
+            "gruenes_rezept":"389,00", 
+            "ohne_rezept":"485,00"
           },
           {
             "title":"Einzelmassage und Moorpackung",
             "gruenes_rezept":"34,00", 
             "ohne_rezept":"40,00"
           },
-          {
-            "title":"6er Karte",
-            "gruenes_rezept":"119,00", 
-            "ohne_rezept":"141,00"
-          },
-          {
-            "title":"3 Einzelmassagen gültig 3 Monate",
-            "gruenes_rezept":"", 
-            "ohne_rezept":"70,00 "
-          }
         ]
     },
     {
       "title":"Krankengymnastik", 
       "duration":"25 min", 
-      "gruenes_rezept":"21,00", 
-      "ohne_rezept":"25,00",
+      "gruenes_rezept":"24,00", 
+      "ohne_rezept":"29,00",
       "sub_prices":
         [
           {
             "title":"6er Karte",
-            "gruenes_rezept":"119,00", 
-             "ohne_rezept":"141,00"
+            "gruenes_rezept":"136,00", 
+             "ohne_rezept":"165,00"
            }
         ]
     },
@@ -53,7 +63,7 @@
           {
             "title":"6er Karte",
             "gruenes_rezept":"143,00", 
-             "ohne_rezept":"170,00"
+             "ohne_rezept":"172,00"
            }
         ]
     },
@@ -62,37 +72,15 @@
       "duration":"25 min", 
       "gruenes_rezept":"25,00", 
       "ohne_rezept":"30,00",
-      "sub_prices":
-        [
-          {
-            "title":"6er Karte",
-            "gruenes_rezept":"143,00", 
-             "ohne_rezept":"170,00"
-           }
-        ]
     },
     {
       "title":"Manuelle Lymphdrainage*", 
       "duration":"30 min", 
       "gruenes_rezept":"25,00", 
       "ohne_rezept":"30,00",
-      "sub_prices":
-        [
-          {
-            "title":"6er Karte",
-            "gruenes_rezept":"143,00", 
-             "ohne_rezept":"170,00"
-           }
-        ]
     },  
     {
-      "title":"CANTIENICA® Beckenbodentraining", 
-      "duration":"25 min", 
-      "gruenes_rezept":"25,00", 
-      "ohne_rezept":"30,00",
-    }, 
-    {
-      "title":"Marnitzbehandlung", 
+      "title":"Beckenbodentraining", 
       "duration":"25 min", 
       "gruenes_rezept":"25,00", 
       "ohne_rezept":"30,00",
@@ -112,8 +100,8 @@
         [
           {
             "title":"Einmalige Teilnahme",
-            "gruenes_rezept":"9,00**", 
-             "ohne_rezept":""
+            "gruenes_rezept":"", 
+            "ohne_rezept":"9,00**"
            },
           {
             "title":"8er Karte",
@@ -145,6 +133,11 @@
       "ohne_rezept":"15,00",
     },   
     {
+      "title":"Schlingentischbehandlung", 
+      "gruenes_rezept":"", 
+      "ohne_rezept":"15,00",
+    },   
+    {
       "title":"Kältepackung ", 
       "gruenes_rezept":"", 
       "ohne_rezept":"10,00",
@@ -153,13 +146,13 @@
       "title":"Fußreflexzonenmassage", 
       "duration":"60 min incl. Wärme",
       "gruenes_rezept":"", 
-      "ohne_rezept":"39,00",
+      "ohne_rezept":"44,00",
     },   
     {
       "title":"Nuad Boran Traditionelle Thaimassage", 
       "duration":"60 min",
       "gruenes_rezept":"", 
-      "ohne_rezept":"39,00",
+      "ohne_rezept":"44,00",
     },
     {
       "title":"Haus-, Heim- und Arbeitsplatzbesuche", 
