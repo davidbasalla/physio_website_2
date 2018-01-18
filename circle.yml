@@ -1,0 +1,13 @@
+dependencies:
+  post:
+    - bundle exec jekyll build
+
+deployment:
+  prod:
+    branch: redesign
+    commands:
+      - ruby upload_site_contents.rb
+
+test:
+  override:
+    - "true"
