@@ -4,7 +4,7 @@ title: Stellenangebote
 order: 4
 ---
 
-###Wir suchen…
+### Wir suchen…
 
 für unsere Praxis eine/n nette/n motivierte/n Physiotherapeuten/in. Unser Schwerpunkt sind orthopädisch-chirurgische, neurologische und präventive Behandlungen.
 
