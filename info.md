@@ -104,4 +104,4 @@ Mit freundlichen Grüßen
 
 Ihr Team der Physio an der Bucht
 
-Berlin, 2. Januar 2017 
+Berlin, 2. Januar 2018
