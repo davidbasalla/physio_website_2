@@ -76,7 +76,7 @@ Krankenkassen gesetzlich vereinbart:
   - Schlingentisch - 20 Minuten
   - Manuelle Therapie - 20 – 25 Minuten
   - Warmpackungen / Naturmoor - 20 – 25 Minuten
-  - MLD - 30 / 45 / 60 30 / 45 / 60 Minuten.
+  - MLD - 30 / 45 / 60 Minuten.
 
 
 #### Nach der Behandlung
