@@ -5,7 +5,7 @@ def checkout_dir(x, sftp)
 
   if !Dir.exists?(x)
     puts "Putting file: #{x}"
-    srcHomePath = "/home/ubuntu/physio_website_2/_site"
+    srcHomePath = "/home/ubuntu/physio_website_2/_site/"
 
     src_path = "#{currentLocation}/#{x}"
     dst_path = "#{currentLocation.gsub(srcHomePath, "")}/#{x}"
@@ -13,7 +13,7 @@ def checkout_dir(x, sftp)
     puts dst_path
     puts 
 
-    # sftp.upload!("/path/to/local", "/path/to/remote")
+    sftp.upload!(src_path, dst_path)
     return
   else
     Dir.chdir(x)
@@ -24,6 +24,7 @@ def checkout_dir(x, sftp)
     unless x == "_site"
       puts"Creating/Navigating to: #{x}"
 
+      # DOES THIS NEED TO BE UPDATED?
       # begin
       #   sftp.mkdir(x)
       # rescue
@@ -38,7 +39,6 @@ def checkout_dir(x, sftp)
     end
 
     Dir.chdir('..')
-    # sftp.chdir('..')
   end
 end
 
