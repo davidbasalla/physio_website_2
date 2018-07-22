@@ -5,12 +5,12 @@ def checkout_dir(x, sftp)
 
   if !Dir.exists?(x)
     puts "Putting file: #{x}"
-    srcHomePath = "/home/ubuntu/physio_website_2/_site/"
+    srcHomePath = "/home/ubuntu/physio_website_2/_site"
 
     src_path = "#{currentLocation}/#{x}"
     dst_path = "#{currentLocation.gsub(srcHomePath, "")}/#{x}"
-    puts src_path
-    puts dst_path
+    puts "FROM #{src_path}"
+    puts "TO #{dst_path}"
     puts 
 
     sftp.upload!(src_path, dst_path)
