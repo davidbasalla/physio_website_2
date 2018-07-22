@@ -4,8 +4,16 @@ def checkout_dir(x, sftp)
   currentLocation = Dir.pwd
 
   if !Dir.exists?(x)
-    puts "Putting file: #{x} to #{currentLocation} "
-    # sftp.put(x)
+    puts "Putting file: #{x}"
+    srcHomePath = "/home/ubuntu/physio_website_2/_site"
+
+    src_path = "#{currentLocation}/#{x}"
+    dst_path = "#{currentLocation.gsub(srcHomePath, "")}/#{x}"
+    puts src_path
+    puts dst_path
+    puts 
+
+    # sftp.upload!("/path/to/local", "/path/to/remote")
     return
   else
     Dir.chdir(x)
