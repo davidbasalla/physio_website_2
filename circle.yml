@@ -3,6 +3,9 @@ dependencies:
     - bundle exec jekyll build
 
 deployment:
+  pre:
+    - gem install net-sftp
+
   prod:
     branch: redesign
     commands:
