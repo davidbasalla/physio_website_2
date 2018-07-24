@@ -48,8 +48,8 @@
         [
           {
             "title":"6er Karte",
-            "gruenes_rezept":"136,00", 
-             "ohne_rezept":"165,00"
+            "gruenes_rezept":"125,00", 
+             "ohne_rezept":"149,00"
            }
         ]
     },
@@ -70,8 +70,8 @@
     {
       "title":"KG ZNS nach Bobath", 
       "duration":"25 min", 
-      "gruenes_rezept":"25,00", 
-      "ohne_rezept":"30,00",
+      "gruenes_rezept":"30,00", 
+      "ohne_rezept":"35,00",
     },
     {
       "title":"Manuelle Lymphdrainage*", 
@@ -82,14 +82,14 @@
     {
       "title":"Beckenbodentraining", 
       "duration":"25 min", 
-      "gruenes_rezept":"25,00", 
-      "ohne_rezept":"30,00",
+      "gruenes_rezept":"30,00", 
+      "ohne_rezept":"35,00",
     }, 
     {
       "title":"CMD-Behandlung", 
       "duration":"25 min", 
-      "gruenes_rezept":"25,00", 
-      "ohne_rezept":"30,00",
+      "gruenes_rezept":"30,00", 
+      "ohne_rezept":"35,00",
     }, 
     {
       "title":"Gesundheitskurse", 
@@ -101,19 +101,13 @@
           {
             "title":"Einmalige Teilnahme",
             "gruenes_rezept":"", 
-            "ohne_rezept":"9,00**"
+            "ohne_rezept":"10,00**"
            },
           {
             "title":"8er Karte",
             "duration":"3 Monate", 
-            "gruenes_rezept":"56,00***", 
-           "ohne_rezept":"66,00"
-           },
-          {
-            "title":"8er Karte",
-            "duration":"6 Monate", 
-            "gruenes_rezept":"60,00", 
-            "ohne_rezept":"70,00"
+            "gruenes_rezept":"60,00***", 
+           "ohne_rezept":"72,00"
            },
         ]
     },
