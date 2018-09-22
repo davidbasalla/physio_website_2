@@ -5,7 +5,7 @@
     <div class="logo-header">
 
       <a href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/assets/images/logo_v02.jpg">
+        <img alt="Physio an der Bucht Logo" src="{{ site.baseurl }}/assets/images/logo_v02.jpg">
       </a>
 
     </div>
@@ -14,18 +14,18 @@
 
     <nav class="site-nav">
 
-        {% assign sorted_pages = (site.pages | sort: 'order') %}
-        {% for my_page in sorted_pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">
-            {{ my_page.title }}
-          </a>
-          {% if my_page.title != "Kontakt" %}
-            |
-          {% endif %}
+      {% assign sorted_pages = (site.pages | sort: 'order') %}
+      {% for my_page in sorted_pages %}
+      {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">
+        {{ my_page.title }}
+      </a>
+      {% if my_page.title != "Kontakt" %}
+      |
+      {% endif %}
 
-          {% endif %}
-        {% endfor %}
+      {% endif %}
+      {% endfor %}
     </nav>
 
   </div>
