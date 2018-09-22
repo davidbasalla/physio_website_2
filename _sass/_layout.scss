@@ -221,7 +221,7 @@
 .post-content {
 
      background-image: url("../assets/images/logoMan_v02.jpg");
-     background-position: center top;
+     background-position: center 100px;
      background-repeat: no-repeat;
 
     margin-bottom: $spacing-unit;
@@ -313,3 +313,18 @@
     width: 250px;
     margin: auto;
 }
+
+.image-width-medium {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+    @include media-query($on-palm) {
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+  }
