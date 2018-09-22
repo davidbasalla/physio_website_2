@@ -1,38 +1,38 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    <div class="main-wrapper">
+  <div class="main-wrapper">
 
-      {% include header.html %}
+    {% include header.html %}
 
-      <div class="page-content">
-          {{ content }}
-      </div>
-
-      {% include footer.html %}
-
+    <div class="page-content">
+      {{ content }}
     </div>
 
-  </body>
+    {% include footer.html %}
+
+  </div>
+
+</body>
 
 <script type="text/javascript">
-  $(document).ready(function() {
-     $("#owl-example").owlCarousel({
+  $(document).ready(function () {
+    $("#owl-example").owlCarousel({
       //Basic Speeds
-      autoPlay : 3000,
+      autoPlay: 3000,
       slideSpeed: 2000,
       paginationSpeed: 2000,
-      items : 3, //10 items above 1000px browser width
-      itemsDesktop : [1000,3], //5 items between 1000px and 901px
-      itemsDesktopSmall : [900,3], // betweem 900px and 601px
-      itemsTablet: [600,2], //2 items between 600 and 0
-      itemsMobile : [400,2], //2 items between 600 and 0
-     });
-   });
+      items: 3, //10 items above 1000px browser width
+      itemsDesktop: [1000, 3], //5 items between 1000px and 901px
+      itemsDesktopSmall: [900, 3], // betweem 900px and 601px
+      itemsTablet: [600, 2], //2 items between 600 and 0
+      itemsMobile: [400, 2], //2 items between 600 and 0
+    });
+  });
 </script>
 
 </html>
