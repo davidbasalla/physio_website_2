@@ -1,44 +1,44 @@
-{"courses":
-  [
+{
+  "courses": [
     {
-      "title":"Yoga für alle", 
-      "time_and_date":"Montags 19 - 20 Uhr und 20 - 21 Uhr", 
-      "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
+      "title": "Yoga für alle",
+      "time_and_date": "Montags 19 - 20 Uhr",
+      "description": "Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
     },
     {
-      "title":"Bewusst bewegt", 
-      "time_and_date":"Dienstags 10 - 11 Uhr", 
-      "description":"Gymnastik für den ganzen Körper, kombiniert mit Atem- und Körperwahrnehmungsübungen mit und ohne Geräte"
+      "title": "Bewusst bewegt",
+      "time_and_date": "Dienstags 10 - 11 Uhr",
+      "description": "Gymnastik für den ganzen Körper, kombiniert mit Atem- und Körperwahrnehmungsübungen mit und ohne Geräte"
     },
     {
-      "title":"Aktiv entspannt", 
-      "time_and_date":"Mittwochs 18 - 19 Uhr", 
-      "description":"Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
+      "title": "Aktiv entspannt",
+      "time_and_date": "Mittwochs 18 - 19 Uhr",
+      "description": "Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
     },
     {
-      "title":"Gerade gerückt", 
-      "time_and_date":"Mittwochs 19 - 20 Uhr auf Anfrage", 
-      "description":"Klassische Rückenschule - Präventionskurs gem. § 20 SGB V"
+      "title": "Gerade gerückt",
+      "time_and_date": "Mittwochs 19 - 20 Uhr auf Anfrage",
+      "description": "Klassische Rückenschule - Präventionskurs gem. § 20 SGB V"
     },
     {
-      "title":"Seniorengerecht", 
-      "time_and_date":"Donnerstags 10 – 11 Uhr", 
-      "description":"Übungen zur Erhaltung der Fitness für Teilnehmer 60+, Bewegung für den ganzen Körper mit und ohne Kleingerät bei passender Musik"
+      "title": "Seniorengerecht",
+      "time_and_date": "Donnerstags 10 – 11 Uhr",
+      "description": "Übungen zur Erhaltung der Fitness für Teilnehmer 60+, Bewegung für den ganzen Körper mit und ohne Kleingerät bei passender Musik"
     },
     {
-      "title":"Pilates", 
-      "time_and_date":"Donnerstags 18 - 19 Uhr und 19 - 20 Uhr",
-      "description":"Training für mehr Balance und Beweglichkeit auf schonende Art, verbesserte Körperhaltung, Koordination, Atmung, Ausdauer und Konzentration"
+      "title": "Pilates",
+      "time_and_date": "Donnerstags 18 - 19 Uhr und 19 - 20 Uhr",
+      "description": "Training für mehr Balance und Beweglichkeit auf schonende Art, verbesserte Körperhaltung, Koordination, Atmung, Ausdauer und Konzentration"
     },
     {
-      "title":"Bauch-Beine-Po", 
-      "time_and_date":"Donnerstags 20 - 21 Uhr", 
-      "description":"Zielgerichtetes Kräftigungs- und Ausdauertraining, begleitet durch schnelle Rhythmen, Bauch-Beine-Po-Power-Kurs für alle, die gern einmal an ihre Grenzen gehen"
+      "title": "Bauch-Beine-Po",
+      "time_and_date": "Donnerstags 20 - 21 Uhr",
+      "description": "Zielgerichtetes Kräftigungs- und Ausdauertraining, begleitet durch schnelle Rhythmen, Bauch-Beine-Po-Power-Kurs für alle, die gern einmal an ihre Grenzen gehen"
     },
     {
-      "title":"Kundalini-Yoga", 
-      "time_and_date":"Freitags 18 - 19:30 Uhr auf Anfrage", 
-      "description":"Entspannung für Körper und Geist zur Förderung von Beweglichkeit und Wohlbefinden"
-    },
+      "title": "Babymassage",
+      "time_and_date": "Freitags 10-11.30 Uhr auf Anfrage",
+      "description": "Für Säuglinge ab sechs Wochen unter Anleitung einer erfahrenen Kinderkrankenschwester"
+    }
   ]
 }

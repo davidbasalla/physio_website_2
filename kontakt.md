@@ -9,19 +9,18 @@ order: 5
 Physio an der Bucht  
 Claudia Basalla  
 Hauptstraße 5E  
-10317 Berlin  
-
+10317 Berlin
 
 Haltestelle S-Bahnhof Rummelsburg (S3, Tram 21)
 
-
 ### Öffnungszeiten:
-Mo - Do: 8 – 20 Uhr  
-Fr: 8 – 16 Uhr  
-und nach Vereinbarung  
 
+Mo - Do: 8 – 20 Uhr
+Fr: 8 – 13 Uhr
+und nach Vereinbarung
 
 ### Kontakt:
+
 Tel.: 030 54 81 83 80  
 Fax: 030 89 64 69 72  
 Email: [team@physio-an-der-bucht.de](mailto:team@physio-an-der-bucht.de)

@@ -22,11 +22,6 @@
           "ohne_rezept": "149,00"
         },
         {
-          "title": "10er Karte",
-          "gruenes_rezept": "215,00",
-          "ohne_rezept": "245,00"
-        },
-        {
           "title": "20er Karte",
           "gruenes_rezept": "389,00",
           "ohne_rezept": "485,00"
@@ -42,27 +37,13 @@
       "title": "Krankengymnastik",
       "duration": "25 min",
       "gruenes_rezept": "24,00",
-      "ohne_rezept": "29,00",
-      "sub_prices": [
-        {
-          "title": "6er Karte",
-          "gruenes_rezept": "125,00",
-          "ohne_rezept": "149,00"
-        }
-      ]
+      "ohne_rezept": "29,00"
     },
     {
       "title": "Manuelle* Therapie",
       "duration": "25 min",
       "gruenes_rezept": "25,00",
-      "ohne_rezept": "30,00",
-      "sub_prices": [
-        {
-          "title": "6er Karte",
-          "gruenes_rezept": "143,00",
-          "ohne_rezept": "172,00"
-        }
-      ]
+      "ohne_rezept": "30,00"
     },
     {
       "title": "KG ZNS nach Bobath",
