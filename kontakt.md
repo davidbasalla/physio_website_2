@@ -8,16 +8,25 @@ order: 5
 
 Physio an der Bucht  
 Claudia Basalla  
+Sektorale Heilpraktikerin Physiotherapie  
 Hauptstraße 5E  
 10317 Berlin
 
 Haltestelle S-Bahnhof Rummelsburg (S3, Tram 21)
+<br/>
 
 ### Öffnungszeiten:
 
-Mo - Do: 8 – 20 Uhr
-Fr: 8 – 13 Uhr
+<table>
+<tr><td style="padding-right:20px">Montag:</td><td>12.30 – 20.00 Uhr</td></tr>
+<tr><td style="padding-right:20px">Dienstag:</td><td>08.00 – 16.00 Uhr</td></tr>
+<tr><td style="padding-right:20px">Mittwoch</td><td>08.00 – 20.00 Uhr</td></tr>
+<tr><td style="padding-right:20px">Donnerstag</td><td>08.00 – 16.00 Uhr</td></tr>
+<tr><td style="padding-right:20px">Freitag</td><td>08.00 – 13.00 Uhr</td></tr>
+</table>
+
 und nach Vereinbarung
+<br/>
 
 ### Kontakt:
 
