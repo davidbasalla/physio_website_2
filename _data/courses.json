@@ -1,6 +1,11 @@
 {
   "courses": [
     {
+      "title": "Power Fit",
+      "time_and_date": "Dienstags 20 – 21 Uhr",
+      "description": "Effektives Ganzkörpertraining, bei dem alle wichtigen Muskelgruppen gekräftigt werden. Kleingeräte und schnelle Rhythmen machen das Training abwechslungsreich. Die Übungen fördern außerdem die Beweglichkeit und Koordination."
+    },
+    {
       "title": "Yoga für alle",
       "time_and_date": "Montags 19 - 20 Uhr",
       "description": "Kombinierte Körper-, Atem- und Entspannungsübungen mit vielen Yoga-Elementen für alle Altersgruppen"
