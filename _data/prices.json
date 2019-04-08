@@ -8,103 +8,128 @@
       "sub_prices": [
         {
           "title": "Einzelmassage",
-          "gruenes_rezept": "",
+          "gruenes_rezept": "22,00",
           "ohne_rezept": "26,00"
         },
         {
-          "title": "3er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "75,00 "
+          "title": "Einzelmassage und Moorpackung",
+          "gruenes_rezept": "34,00",
+          "ohne_rezept": "40,00"
         },
         {
           "title": "6er Karte",
+          "gruenes_rezept": "127,00",
+          "ohne_rezept": "149,00"
+        },
+        {
+          "title": "3 Einzelmassagen,",
+          "duration": "3 Monate gültig",
           "gruenes_rezept": "",
+          "ohne_rezept": "75,00 "
+        }
+      ]
+    },
+    {
+      "title": "10er Karte KMT",
+      "gruenes_rezept": "215,00",
+      "ohne_rezept": "245,00"
+    },
+    {
+      "title": "20er Karte KMT",
+      "gruenes_rezept": "389,00",
+      "ohne_rezept": "485,00"
+    },
+    {
+      "title": "Krankengymnastik",
+      "duration": "25 min",
+      "gruenes_rezept": "24,00",
+      "ohne_rezept": "29,00",
+      "sub_prices": [
+        {
+          "title": "6er Karte",
+          "gruenes_rezept": "125,00",
           "ohne_rezept": "149,00"
         }
       ]
     },
     {
-      "title": "Krankengymnastik",
+      "title": "Manuelle Therapie*",
       "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "28,00",
+      "gruenes_rezept": "25,00",
+      "ohne_rezept": "30,00",
       "sub_prices": [
         {
           "title": "6er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "161,00"
+          "gruenes_rezept": "143,00",
+          "ohne_rezept": "170,00"
         }
       ]
-    },
-    {
-      "title": "Manuelle Therapie",
-      "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "29,00"
-    },
-    {
-      "title": "CMD-Behandlung",
-      "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "29,00"
     },
     {
       "title": "KG ZNS nach Bobath",
       "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "29,00"
+      "gruenes_rezept": "30,00",
+      "ohne_rezept": "35,00",
+      "sub_prices": [
+        {
+          "title": "6er Karte",
+          "gruenes_rezept": "143,00",
+          "ohne_rezept": "170,00"
+        }
+      ]
+    },
+    {
+      "title": "Manuelle Lymphdrainage*",
+      "duration": "30 min",
+      "gruenes_rezept": "30,00",
+      "ohne_rezept": "35,00",
+      "sub_prices": [
+        {
+          "title": "6er Karte",
+          "gruenes_rezept": "143,00",
+          "ohne_rezept": "170,00"
+        }
+      ]
     },
     {
       "title": "Beckenbodentraining",
       "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "29,00",
-      "sub_prices": [
-        {
-          "title": "6er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "167,00"
-        }
-      ]
+      "gruenes_rezept": "30,00",
+      "ohne_rezept": "35,00"
     },
     {
-      "title": "Manuelle Lymphdrainage",
-      "duration": "",
+      "title": "CMD-Behandlung",
+      "duration": "25 min",
+      "gruenes_rezept": "30,00",
+      "ohne_rezept": "35,00"
+    },
+    {
+      "title": "Gesundheitskurse",
+      "duration": "55 min (4-10 Pers.) ",
       "gruenes_rezept": "",
       "ohne_rezept": "",
       "sub_prices": [
         {
-          "title": "30 min",
+          "title": "Einmalige Teilnahme",
           "gruenes_rezept": "",
-          "ohne_rezept": "30,00"
+          "ohne_rezept": "9,00**"
         },
         {
-          "title": "45 min",
-          "gruenes_rezept": "",
-          "ohne_rezept": "45,00"
+          "title": "8er Karte",
+          "duration": "3 Monate",
+          "gruenes_rezept": "56***",
+          "ohne_rezept": "66,00"
         },
         {
-          "title": "60 min",
-          "gruenes_rezept": "",
-          "ohne_rezept": "60,00"
+          "title": "8er Karte",
+          "duration": "6 Monate",
+          "gruenes_rezept": "60,00",
+          "ohne_rezept": "70,00"
         }
       ]
     },
     {
-      "title": "Heiße Rolle",
-      "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "26,00"
-    },
-    {
-      "title": "Schröpfmassage",
-      "duration": "25 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "26,00"
-    },
-    {
-      "title": "Naturmoor-Einmalpackung",
-      "duration": "25 min",
+      "title": "Moorpackung / Heiße Rolle",
       "gruenes_rezept": "",
       "ohne_rezept": "15,00"
     },
@@ -129,24 +154,18 @@
       "ohne_rezept": "10,00"
     },
     {
-      "title": "Gesundheitskurse",
-      "duration": "55 min (4-10 Pers.) ",
+      "title": "Fußreflexzonenmassage",
+      "duration": "60 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "",
-      "sub_prices": [
-        {
-          "title": "Einmalige Teilnahme",
-          "gruenes_rezept": "",
-          "ohne_rezept": "10,00"
-        },
-        {
-          "title": "8er Karte",
-          "duration": "3 Monate",
-          "gruenes_rezept": "",
-          "ohne_rezept": "60,00*/72,00"
-        }
-      ]
+      "ohne_rezept": "44,00"
     },
+    {
+      "title": "Nuad Boran Trad. Thaimassage",
+      "duration": "60 min",
+      "gruenes_rezept": "",
+      "ohne_rezept": "44,00"
+    },
+
     {
       "title": "Haus-, Heim- und Arbeitsplatzbesuche",
       "duration": "nach Vereinbarung",

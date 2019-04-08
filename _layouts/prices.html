@@ -9,8 +9,9 @@ layout: default
 
       <table class="prices-table">
         <thead>
-          <th style="width: 60%"></th>
-          <th style="width: 40%" class="price-th"></th>
+          <th style="width: 54%"></th>
+          <th style="width: 23%" class="price-th">Grünes Rezept</th>
+          <th style="width: 23%" class="price-th">Ohne Rezept</th>
         </thead>
         <tbody>
           {% for price in site.data.prices.prices %}
@@ -21,6 +22,11 @@ layout: default
             </td>
 
             <td class="price-td">
+              {% if price.gruenes_rezept != "" %} {{ price.gruenes_rezept }} €
+              {% endif %}
+            </td>
+
+            <td class="price-td">
               {% if price.ohne_rezept != "" %} {{ price.ohne_rezept }} € {%
               endif %}
             </td>
@@ -28,6 +34,10 @@ layout: default
           {% for price in price.sub_prices %}
           <tr>
             <td>{{ price.title }} {{ price.duration }}</td>
+            <td class="price-td">
+              {% if price.gruenes_rezept != "" %} {{ price.gruenes_rezept }} €
+              {% endif %}
+            </td>
 
             <td class="price-td">
               {% if price.ohne_rezept != "" %} {{ price.ohne_rezept }} € {%
@@ -40,7 +50,9 @@ layout: default
         </tbody>
       </table>
 
-      <p>*Seniorendiscount 2.00 EUR<br /></p>
+      <p>*im Anschluss an ärztliche Verordnung<br /></p>
+      <p>**Schnupperdiscount einmalig 1,00 €<br /></p>
+      <p>***Seniorendiscount 2,00 €<br /></p>
 
       <p>
         Die zeitlichen Angaben beziehen sich auf die Gesamtbehandlung, inkl.
@@ -52,7 +64,7 @@ layout: default
         senden wir Ihnen Informationen zu unserer Praxis und Sonderaktionen
         zukünftig gern auch auf diesem Weg zu.
       </p>
-      <p>Preise in EUR, gültig ab 1. Januar 2019</p>
+      <p>Preise in EUR, gültig ab 1. April 2019</p>
     </div>
   </div>
 </article>
