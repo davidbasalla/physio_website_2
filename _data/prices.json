@@ -2,70 +2,39 @@
   "prices": [
     {
       "title": "Klassische Massage",
-      "duration": "25 min",
+      "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "",
-      "sub_prices": [
-        {
-          "title": "Einzelmassage",
-          "gruenes_rezept": "",
-          "ohne_rezept": "26,00"
-        },
-        {
-          "title": "3er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "75,00 "
-        },
-        {
-          "title": "6er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "149,00"
-        }
-      ]
+      "ohne_rezept": "32,50"
     },
     {
       "title": "Krankengymnastik",
-      "duration": "25 min",
+      "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "28,00",
-      "sub_prices": [
-        {
-          "title": "6er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "161,00"
-        }
-      ]
+      "ohne_rezept": "38,00"
     },
     {
       "title": "Manuelle Therapie",
-      "duration": "25 min",
+      "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "29,00"
+      "ohne_rezept": "44,50"
     },
     {
       "title": "CMD-Behandlung",
-      "duration": "25 min",
+      "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "29,00"
+      "ohne_rezept": "44,50"
     },
     {
       "title": "KG ZNS nach Bobath",
-      "duration": "25 min",
+      "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "29,00"
+      "ohne_rezept": "44,50"
     },
     {
       "title": "Beckenbodentraining",
-      "duration": "25 min",
+      "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "29,00",
-      "sub_prices": [
-        {
-          "title": "6er Karte",
-          "gruenes_rezept": "",
-          "ohne_rezept": "167,00"
-        }
-      ]
+      "ohne_rezept": "44,50"
     },
     {
       "title": "Manuelle Lymphdrainage",
@@ -76,17 +45,17 @@
         {
           "title": "30 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "30,00"
+          "ohne_rezept": "37,50"
         },
         {
           "title": "45 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "45,00"
+          "ohne_rezept": "56,50"
         },
         {
           "title": "60 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "60,00"
+          "ohne_rezept": "75,00"
         }
       ]
     },
@@ -110,6 +79,7 @@
     },
     {
       "title": "Elektrotherapie/ Ultraschall",
+      "duration": "20 min",
       "gruenes_rezept": "",
       "ohne_rezept": "15,00"
     },
@@ -141,7 +111,7 @@
         },
         {
           "title": "8er Karte",
-          "duration": "3 Monate",
+          "duration": "(3 Monate gültig nach erster Teilnahme)",
           "gruenes_rezept": "",
           "ohne_rezept": "60,00*/72,00"
         }
@@ -151,7 +121,12 @@
       "title": "Haus-, Heim- und Arbeitsplatzbesuche",
       "duration": "nach Vereinbarung",
       "gruenes_rezept": "",
-      "ohne_rezept": ""
+      "ohne_rezept": "ab 15,00"
+    },
+    {
+      "title": "Therapiebefund",
+      "gruenes_rezept": "",
+      "ohne_rezept": "15,00"
     }
   ]
 }
