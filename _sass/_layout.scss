@@ -259,6 +259,13 @@
     margin-bottom: 20px;
 }
 
+.alert {
+    border: solid;
+    border-width: 5px;
+    border-color: #356183;
+    padding: 30px;
+}
+
 .praxis-entry {
     border-bottom: solid;
     border-width: 1px;
@@ -321,7 +328,7 @@
     margin-right: auto;
     padding-top: 20px;
     padding-bottom: 20px;
-  
+
     @include media-query($on-palm) {
         width: 100%;
         padding-top: 0px;
