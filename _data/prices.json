@@ -4,7 +4,7 @@
       "title": "Klassische Massage",
       "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "32,50"
+      "ohne_rezept": "34,50"
     },
     {
       "title": "Krankengymnastik",
@@ -28,7 +28,7 @@
       "title": "KG ZNS nach Bobath",
       "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "44,50"
+      "ohne_rezept": "45,50"
     },
     {
       "title": "Beckenbodentraining",
@@ -45,17 +45,17 @@
         {
           "title": "30 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "37,50"
+          "ohne_rezept": "39,50"
         },
         {
           "title": "45 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "56,50"
+          "ohne_rezept": "58,50"
         },
         {
           "title": "60 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "75,00"
+          "ohne_rezept": "76,00"
         }
       ]
     },
@@ -69,19 +69,19 @@
       "title": "Schröpfmassage",
       "duration": "25 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "32,50"
+      "ohne_rezept": "34,50"
     },
     {
       "title": "Naturmoor-Einmalpackung",
       "duration": "25 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "15,00"
+      "ohne_rezept": "18,00"
     },
     {
       "title": "Elektrotherapie/ Ultraschall",
       "duration": "20 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "15,00"
+      "ohne_rezept": "16,00"
     },
     {
       "title": "Kinesiologisches Taping ",
@@ -91,12 +91,12 @@
     {
       "title": "Schlingentischbehandlung",
       "gruenes_rezept": "",
-      "ohne_rezept": "15,00"
+      "ohne_rezept": "16,00"
     },
     {
       "title": "Kältepackung",
       "gruenes_rezept": "",
-      "ohne_rezept": "10,00"
+      "ohne_rezept": "12,00"
     },
     {
       "title": "Gesundheitskurse",
@@ -121,7 +121,7 @@
       "title": "Haus-, Heim- und Arbeitsplatzbesuche",
       "duration": "nach Vereinbarung",
       "gruenes_rezept": "",
-      "ohne_rezept": "ab 15,00"
+      "ohne_rezept": "ab 25,00"
     },
     {
       "title": "Therapiebefund",
