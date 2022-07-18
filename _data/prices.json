@@ -99,25 +99,6 @@
       "ohne_rezept": "12,00"
     },
     {
-      "title": "Gesundheitskurse",
-      "duration": "55 min (4-10 Pers.) ",
-      "gruenes_rezept": "",
-      "ohne_rezept": "",
-      "sub_prices": [
-        {
-          "title": "Einmalige Teilnahme",
-          "gruenes_rezept": "",
-          "ohne_rezept": "10,00"
-        },
-        {
-          "title": "8er Karte",
-          "duration": "(3 Monate gültig nach erster Teilnahme)",
-          "gruenes_rezept": "",
-          "ohne_rezept": "60,00*/72,00"
-        }
-      ]
-    },
-    {
       "title": "Haus-, Heim- und Arbeitsplatzbesuche",
       "duration": "nach Vereinbarung",
       "gruenes_rezept": "",
