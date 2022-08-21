@@ -4,37 +4,25 @@
       "title": "Klassische Massage",
       "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "34,50"
+      "ohne_rezept": "38,00"
     },
     {
       "title": "Krankengymnastik",
       "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "38,00"
+      "ohne_rezept": "41,00"
     },
     {
       "title": "Manuelle Therapie",
       "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "44,50"
-    },
-    {
-      "title": "CMD-Behandlung",
-      "duration": "30 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "44,50"
+      "ohne_rezept": "48,00"
     },
     {
       "title": "KG ZNS nach Bobath",
       "duration": "30 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "45,50"
-    },
-    {
-      "title": "Beckenbodentraining",
-      "duration": "30 min",
-      "gruenes_rezept": "",
-      "ohne_rezept": "44,50"
+      "ohne_rezept": "49,00"
     },
     {
       "title": "Manuelle Lymphdrainage",
@@ -45,64 +33,64 @@
         {
           "title": "30 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "39,50"
+          "ohne_rezept": "43,00"
         },
         {
           "title": "45 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "58,50"
+          "ohne_rezept": "63,50"
         },
         {
           "title": "60 min",
           "gruenes_rezept": "",
-          "ohne_rezept": "76,00"
+          "ohne_rezept": "82,00"
         }
       ]
     },
     {
       "title": "Heiße Rolle",
-      "duration": "25 min",
+      "duration": "20 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "26,00"
+      "ohne_rezept": "28,00"
     },
     {
       "title": "Schröpfmassage",
       "duration": "25 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "34,50"
+      "ohne_rezept": "38,00"
     },
     {
       "title": "Naturmoor-Einmalpackung",
       "duration": "25 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "18,00"
+      "ohne_rezept": "19,50"
     },
     {
       "title": "Elektrotherapie/ Ultraschall",
       "duration": "20 min",
       "gruenes_rezept": "",
-      "ohne_rezept": "16,00"
+      "ohne_rezept": "17,50"
     },
     {
-      "title": "Kinesiologisches Taping ",
+      "title": "Kinesiologisches Taping",
       "gruenes_rezept": "",
       "ohne_rezept": "15,00"
     },
     {
       "title": "Schlingentischbehandlung",
       "gruenes_rezept": "",
-      "ohne_rezept": "16,00"
+      "ohne_rezept": "17,50"
     },
     {
       "title": "Kältepackung",
       "gruenes_rezept": "",
-      "ohne_rezept": "12,00"
+      "ohne_rezept": "13,00"
     },
     {
       "title": "Haus-, Heim- und Arbeitsplatzbesuche",
       "duration": "nach Vereinbarung",
       "gruenes_rezept": "",
-      "ohne_rezept": "ab 25,00"
+      "ohne_rezept": "ab 27,00"
     },
     {
       "title": "Therapiebefund",
