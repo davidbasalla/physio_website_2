@@ -4,7 +4,7 @@ on:
     branches:
       - main
 jobs:
-  test:
+  Build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -12,3 +12,14 @@ jobs:
       with:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - run: bundle exec jekyll build
+    - name: Fetch action
+      id: pl
+      uses: Rishabh510/Path-lister-action@master
+      with:
+        path: "_site/"
+    - name: Output results
+      run: |
+        echo "Found ${{ steps.pl.outputs.path_count }} file(s) with this extension:"
+        for i in ${{ steps.pl.outputs.paths }}; do
+        echo $i
+        done
