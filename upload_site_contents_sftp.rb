@@ -11,7 +11,7 @@ def checkout_dir(x, sftp)
     dst_path = "#{currentLocation.gsub(srcHomePath, "")}/#{x}"
     puts "FROM #{src_path}"
     puts "TO #{dst_path}"
-    puts 
+    puts
 
     sftp.upload!(src_path, dst_path)
     return
@@ -50,4 +50,5 @@ def transfer_files_sftp
   end
 end
 
+puts "user = #{ENV["USER"]}"
 transfer_files_sftp

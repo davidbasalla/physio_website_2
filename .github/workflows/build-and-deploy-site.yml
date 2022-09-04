@@ -23,3 +23,9 @@ jobs:
         for i in ${{ steps.pl.outputs.paths }}; do
         echo $i
         done
+    - name: Transfer via SFTP
+      env:
+        HOST: ${{ secrets.HOST }}
+        USER: ${{ secrets.USER }}
+        PASSWD: ${{ secrets.PASSWD }}
+      run: bundle exec ruby upload_site_contents_sftp.rb
